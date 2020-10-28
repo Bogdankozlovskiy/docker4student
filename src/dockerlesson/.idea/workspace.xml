@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b5cbf91-fb1e-4130-b30a-f8e111c21c56" name="Default Changelist" comment="">
+      <change beforePath="D:/books/Chekhov__75000.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Agaf'ya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Aktyorskaya_gibel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Al'bom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Anna_na_shee.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Antreprenyor_pod_divanom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Anyuta.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Aptekarsha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ariadna.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Arkhierej.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bab'e_tsarstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Baby.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Baran_i_baryshnya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Baron.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Barynya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Beda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Beglets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Belolobyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Beseda_p'yanogo_s_trezvym_chyortom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bespokojnyj_gost'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bez_mesta.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bez_zaglaviya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Beznadyozhnyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bezzakonie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bezzaschitnoe_suschestvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Blagodarnyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Brak_po_raschyotu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Bratets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Chelovek_v_futlyare.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Chtenie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Chto_luchshe.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Chyornyj_monakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dachniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dama_s_sobachkoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Damy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Delets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Den'_za_gorodom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Detvora.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dobryj_znakomyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Doktor.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dom_s_mezoninom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Drama_na_okhote.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dramaturg.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Duel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dushechka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dva_gazetchika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dva_skandala.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Dvadtsat'_devyatoe_iyunya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Edinstvennoe_sredstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Eger'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Filologicheskie_zametki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Glupyj_frantsuz.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Gore.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Govorit'_ili_molchat'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Greshnik_iz_Toledo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Grisha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Gusev.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__I_to_i_se_(pis'ma_i_telegrammy).txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Idilliya_-_uvy_i_akh_!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Imeniny.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Intelligentnoe_brevno.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ionych.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ispoved',_ili_Olya,_Zhenya,_Zoya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Istoriya_odnogo_torgovogo_predpriyatiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Iz_Sibiri.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Iz_dnevnika_odnoj_devitsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Iz_vosspominanij_idealista.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Iz_zapisnoj_knizhki_starogo_pedagoga.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kalkhas.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kanitel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kashtanka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kazak.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Khameleon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Khitrets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kleveta.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Knyaginya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kon'_i_trepetnaya_lan'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kontrabas_i_flejta.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Korrespondent.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kotoryj_iz_trekh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Krasavitsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Krest.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kryzhovnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Kulach'e_gnezdo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Letayuschie_ostrova.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Lishnie_lyudi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Loshadinaya_familiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mar'ya_Ivanovna.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mari_d'elle.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mechty.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mest'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mest'_zhenschiny.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Moj_yubilej.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Moya_zhizn'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Mstitel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Muzhiki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Na_gvozde.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Na_strastnoj_nedele.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Na_svyatkakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Na_volch'ej_sadke.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Nakhlebniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Narvalsya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ne_sud'ba_!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Neudachnyj_vizit.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Nevesta.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Novaya_bolezn'_i_staroe_sredstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Novaya_dacha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Novogodnie_mucheniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__O_lyubvi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ogni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Orator.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ostrov_Sakhalin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ot_nechego_delat'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Otkrytie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Otryvok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Palata_No_6.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Pari.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Patriot_svoego_otechestva.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Pecheneg.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Perekati-pole.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Perezhitoe.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Perpetuum_mobile.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Pis'mo_k_uchenomu_sosedu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Po_delam_sluzhby.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Poprygun'ya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Posle_teatra.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Potseluj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Pripadok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Priznatel'nyj_nemets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Protektsiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Rasskaz,_kotoromu_trudno_podobrat'_nazvanie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Rasskaz_neizvestnogo_cheloveka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Rasskaz_starshego_sadovnika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Rech'_i_remeshok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Roman_s_kontrabasom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ryb'ya_lyubov'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__S_zhenoj_possorilsya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sapogi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Schast'e.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Shutochka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sil'nye_oschuscheniya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Skripka_Rotshil'da.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Skuchnaya_istoriya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sledovatel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Slova,_slova_i_slova.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sluchai_Mania_Grandiosa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sluchaj_iz_praktiki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Smert'_chinovnika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sobytie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Son_reportyora.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sosedi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Sovet.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Staryj_dom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Stena.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Step'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Strakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Student.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Supruga.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Svidanie_khotya_i_sostoyalos',_no.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Svirel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Tif.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Tolstyj_i_tonkij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Trifon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Tsvety_zapozdalye.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ty_i_vy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Tyomnoyu_noch'yu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__U_znakomykh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ubijstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Uchitel'_slovesnosti.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Unter_Prishibeev.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Uprazdnili!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ushla.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_Moskve.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_Moskve_na_Trubnoj_ploschadi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_Rozhdestvenskuyu_noch'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_apteke.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_bane.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_gostinoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_more.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_nomerakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_ovrage.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_pochtovom_otdelenii.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_potyomkakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_priyute_dlya_neizlichimo_bol'nykh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_rodnom_uglu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_sarae.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_ssylke.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_sude.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_usad'be.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__V_vagone.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Van'ka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ved'ma.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Verochka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Ves'_v_dedushku.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vesnoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Volodya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Volodya_bol'shoj_i_Volodya_malen'kij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vor.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vory.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vosklitsatel'nyj_znak.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vragi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vstrecha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vstrecha_vesny.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Vyigryshnyj_bilet.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Za_dvumya_zajtsami_pogonish'sya,_ni_odnogo_ne_pojmaesh'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Za_yablochki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zabludshie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zabyl_!!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zadacha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zakuska.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zelenaya_kosa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zerkalo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhena.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhenikh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhenskoe_schast'e.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zheny_artistov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhilets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhitejskaya_meloch'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhitejskie_nevzgody.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhivaya_khronologiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhivoj_tovar.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zhizn'_v_voprosakh_i_vosklitsaniyakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Zloumyshlennik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Znakomyj_muzhchina.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chekhov__Znamenie_vremeni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Chernyshevskij__Chto_delat'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Bednye_lyudi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Belye_nochi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Besy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Bobok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Brat'ya_Karamazovy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Chuzhaya_zhena_i_muzh_pod_krovat'yu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Dvojnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Dyadyushkin_son.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Idiot.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Igrok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Khozyajka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Krokodil.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Malen'kij_geroj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Netochka_Nezvanova.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Podrostok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Povesti_i_rasskazy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Prestuplenie_i_nakazanie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Selo_Stepanchikovo_i_ego_obitateli.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Skvernyj_anekdot.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Son_smeshnogo_cheloveka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Unizhennye_i_oskorblyonnye.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Vechnyj_muzh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Zapiski_iz_mertvogo_doma.txt" beforeDir="false" />
+      <change beforePath="D:/books/Dostoevskij__Zapiski_iz_podpol'ya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Ertel'__Gardeniny,_ikh_dvornya,_priverzhentsy_i_vragi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Ertel'__Zapiski_Stepnyaka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Chapogi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Detstvo_Tyomy_(Semejnaya_khronika_-_1).txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Evrejskij_pogrom.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Genij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Gimnazisty_(Semejnaya_khronika_-_2).txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Knizhka_schast'ya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Okhotniki_na_tigrov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garin-Mikhajlovskij__Znaem_!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Attalea_princeps.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Ckazka_o_zhabe_i_roze.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Krasnyj_tsvetok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Lyagushka-puteshestvennitsa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Medvedi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__Skazanie_o_gordom_Aggee.txt" beforeDir="false" />
+      <change beforePath="D:/books/Garshin__To,_chego_ne_bylo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Gertsen__Byloe_i_dumy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Gertsen__Elena.txt" beforeDir="false" />
+      <change beforePath="D:/books/Gertsen__Kto_vinovat.txt" beforeDir="false" />
+      <change beforePath="D:/books/Gertsen__Legenda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Fregat_'Pallada'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Ivan_Savich_Podzhabrin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Likhaya_bolest'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Maj_mesyats_v_Peterburge.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Oblomov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Obryv.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Obyknovennaya_istoriya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Pepin'erka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Pis'ma_stolichnogo_druga_k_provintsial'nomu_zhenikhu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Prevratnosti_sud'by.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Schastlivaya_oshibka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Goncharov__Ukha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Grigorovich__Anton-Goremyka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Grigorovich__Bobyl'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Grigorovich__Derevnya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Grigorovich__Guttaperchevyj_mal'chik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Grigorovich__Rybaki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Ad'yutant_ego_prevoskhoditel'stva.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__At-Davan.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Brat'ya_Mendel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Cherkes.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Chudnaya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Fedor_Bespriyutnyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Feodaly.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Gosudarevy_yamschiki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Iskushenie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Les_shumit.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Marusina_zaimka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Mgnovenie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Moroz.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Na_zatmenii.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Neobkhodimost'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Noch'yu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Obryvok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Ogon'ki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Omollon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Paradoks.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Poslednij_luch.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Priemysh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Reka_igraet.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Skazanie_o_Flore,_Agrippe_i_Menakheme,_syne_Iegudy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Slepoj_muzykant.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Sokolinets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Son_Makara.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Stanochniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Sudnyj_den'_('Iom-Kipur').txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Talanty.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Teni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Ubivets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__V_durnom_obschestve.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__V_oblachnyj_den'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Yashka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Korolenko__Za_ikonoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Administrativnaya_gratsiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Arkhierejskie_ob'ezdy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Besstydnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Chas_voli_bozhiej.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Chelovek_na_chasakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Chertogon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Dama_i_fefela.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Durachok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Eparkhial'nyj_sud.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Grabezh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Improvizatory_(Kartinka_s_natury).txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Kadetskij_monastyr'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Kotin_doilets_i_Platonida.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Ledi_Makbet_Mtsenskogo_uezda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Lev_startsa_Gerasima.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Levsha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Melochi_arkhierejskoj_zhizni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Na_nozhakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Nekreschenyj_pop.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Nekuda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Neotsenennye_uslugi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Nerazmennyj_rubl'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Neskol'ko_slov_o_dukhoborskikh_i_drugikh_sektakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Nesmertel'nyj_Golovan_(Iz_rasskazov_o_trekh_pravednikakh).txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Nevinnyj_prudentsij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__O_'Kvakereyakh'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Obuyannaya_sol'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Ocharovannyj_strannik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Odnodum.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Ostrovityane.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Ovtsebyk.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Pagubniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Pavlin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Po_povodu_krejtserovoj_sonaty.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Pod_Rozhdestvo_obideli.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Polunoschniki_(Pejzazh_i_zhanr).txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Povest'_o_bogougodnom_drovokole.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Produkt_prirody.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Razbojnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Russkoe_tajnobrachie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Sheramur.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Sim_vospreschaetsya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Skazanie_o_Fedore-khristianine_i_o_druge_ego_Abrame-zhidovine.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Smekh_i_gore.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Starye_gody_v_sele_Plodomasove.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Tupejnyj_khudozhnik_(Rasskaz_na_mogile).txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Vladychnyj_sud.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Voitel'nitsa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Yazvitel'nyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Yudol'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zagon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zapechatlennyj_angel.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zayachij_remiz_(Nablyudeniya,_opyty_i_priklyucheniya_Onopriya_Pereguda_iz_Peregudov).txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zheleznaya_volya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zhitie_odnoj_baby.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zimnij_den'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Leskov__Zver'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__'V_khudykh_dushakh'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Ak-Bozat.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Alyonushkiny_skazki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Balaburda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Bojtsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Brat'ya_Gordeevy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Cherty_iz_zhizni_Pepko.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Durnoj_tovarisch.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Emelya-okhotnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Khleb.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Klad.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Kormilets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Krupichataya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Lesnaya_skazka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Malinovye_gory.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Medvedko.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Na_puti.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Na_reke_Chusovoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__O_knige.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Okhoniny_brovi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Okolo_nod'i.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Otrezannyj_lomot'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Ottsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Ozornik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Pervaya_korrespondentsiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Pir_goroj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Pod_domnoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Pod_zemlej.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Podsnezhnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Postojko.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Priemysh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Privalovskie_milliony.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__S_golodu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Samotsvety.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Seraya_Shejka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Skazka_pro_slavnogo_tsarya_Gorokha_i_ego_prekrasnykh_docherej_tsarevnu_Kutaf'yu_i_tsarevnu_Goroshinku.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Tri_kontsa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Upryamyj_kozel.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__V_bolote.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__V_glushi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__V_gorakh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__V_kamennom_kolodtse.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__V_uchen'e.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Vernyj_rab.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Vertel.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Vol'nyj_chelovek_Yashka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Volshebnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zelenaya_vojna.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zelenye_gory.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zimov'e_na_Studenoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zolotaya_noch'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zoloto.txt" beforeDir="false" />
+      <change beforePath="D:/books/Mamin-Sibiryak__Zolotukha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Bat'ka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Boyarschina.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Fanfaron.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Komik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Leshij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Lyudi_sorokovykh_godov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Meschane.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Piterschik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Plotnich'ya_artel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Putevye_ocherki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Russkie_lguny.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Sergej_Petrovich_Khozarov_i_Mari_Stupitsyna_(Brak_po_strasti).txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Staraya_barynya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Starcheskij_grekh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Tysyacha_dush.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Tyufyak.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Uzhe_ottsvetshie_tsvetki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__V_vodovorote.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Vinovata_li_ona.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pisemskij__Vzbalamuchennoe_more.txt" beforeDir="false" />
+      <change beforePath="D:/books/Pomyalovskij__Ocherki_bursy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Chizhikovo_gore.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Dikij_pomeschik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Dnevnik_provintsiala_v_Peterburge.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Gospoda_Golovlevy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Gospoda_tashkenttsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Istoriya_odnogo_goroda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Karas'-idealist.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Konyaga.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Liberal.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Medved'_na_voevodstve.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Orel-metsenat.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Pompadury_i_pompadurshi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Povest'_o_tom,_kak_odin_muzhik_dvukh_generalov_prokormil.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Premudryj_piskar'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Priklyuchenie_s_Kramol'nikovym.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Sosedi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Sovremennaya_idilliya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__V_bol'nitse_dlya_umalishennykh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Vernyj_Trezor.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Voron-chelobitchik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Saltykov-Schedrin__Vyalenaya_vobla.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Akula.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Al'bert.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Alesha_Gorshok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Anna_Karenina.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Apostol_Ioann_i_razbojnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Arkhangel_Gavriil.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Assirijskij_tsar'_Asarkhadon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Bednye_lyudi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Belka_i_volk.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Bol'shaya_Medveditsa_(Kovsh).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Bol'shaya_pechka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Bozheskoe_i_chelovecheskoe.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Bul'ka_(Rasskazy_ofitsera).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Chem_lyudi_zhivy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Chto_ya_videl_vo_sne.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__D'yavol.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dekabristy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dekabristy_(Iz_neokonchennogo).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Detstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Devchonki_umnee_starikov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Devochka_i_razbojniki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dorogo_stoit.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Durak_i_nozh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dva_brata.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dva_brata_i_zoloto.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dva_gusara.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dva_starika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Dve_razlichnye_versii_istorii_ul'ya_s_lubochnoj_kryshkoj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Fal'shivyj_kupon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Fedotka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Filipok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Fransuaza.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Gde_lyubov',_tam_i_bog.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Glavnyj_zakon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Glupyj_muzhik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Il'yas.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Ispoved'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Iz_kavkazskikh_vospominanij_(Razzhalovannyj).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Iz_zapisok_knyazya_D_Nekhlyudova,_Lyutsern.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Iz_zaveschaniya_meksikanskogo_tsarya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Izbushka_i_dvorets.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kak_chertenok_krayushku_vykupal.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kak_dyadya_Semen_rasskazyval_pro_to,_chto_s_nim_v_lesu_bylo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kamni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kavkazskij_plennik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kayuschijsya_greshnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kazaki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Khadzhi_Murat.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Khodynka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kholstomer_(Istoriya_loshadi).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Khozyain_i_rabotnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kon'_i_kobyla.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Kornej_Vasil'ev.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Korova.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Krejtserova_sonata.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Krestnik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Letuchaya_mysh'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Lisitsa_i_zhuravl'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Metel'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Mnogo_li_cheloveku_zemli_nuzhno.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Molitva.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Mudraya_devitsa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Mysh'_polevaya_i_mysh'_gorodskaya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Myshi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Nabeg_(Rasskaz_volontera).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Nagrada.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Nechayanno.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__O_lyudyakh_bol'shikh_i_malen'kikh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Okhota_pusche_nevoli_(Rasskaz_okhotnika).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Okonchanie_malorossijskoj_legendy_'Sorok_let',_izdannoj_Kostomarovym_v_1881_godu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Otets_Sergij.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Otets_i_synov'ya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Otrochestvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Pchyoly_i_trutni.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Pesni_na_derevne.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Polikushka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Posle_bala.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Pryzhok.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Rabotnik_Emel'yan_i_pustoj_baraban.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Rovnoe_nasledstvo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Rubka_lesa_(Rasskaz_yunkera).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Semejnoe_schastie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Sevastopol'_v_avguste_1855_goda_(Sevastopol'skie_rasskazy_-_2).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Sevastopol'_v_dekabre_mesyatse_(Sevastopol'skie_rasskazy_-_1).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Sevastopol'_v_mae_(Sevastopol'skie_rasskazy_-_3).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Shakaly_i_slon.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Shat_i_Don.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Sila_detstva.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Smert'_Ivana_Il'icha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Sobaka_i_eyo_ten'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Son_molodogo_tsarya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Stydno.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Suratskaya_kofejnaya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Svechka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Techenie_vody.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Telyonok_na_l'du.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Teterev_i_lisa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_medvedya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_pritchi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_smerti.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_startsa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_syna.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_voprosa.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Tri_vora.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Trud,_smert'_i_bolezn'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Upryamaya_loshad'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Upustish'_ogon'_-_ne_potushish'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Utro_pomeschika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Uzh.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_1,_chast'_1).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_1,_chast'_2).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_1,_chast'_3).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_2,_chast'_1).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_2,_chast'_2).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_2,_chast'_3).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_2,_chast'_4).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_2,_chast'_5).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_3).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vojna_i_mir_(Tom_4).txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Volga_i_Vazuza.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Volk.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Volk_i_kobyla.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vorobej.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Voskresenie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Vrazh'e_lepko,_a_bozh'e_krepko.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Yagody.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Yastreb_i_golubi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Yozh_i_zayats.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Yunost'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Za_chto.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Zajtsy_i_lyagushki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Zapiski_markera.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Zapiski_sumasshedshego.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Zerno_s_kurinoe_yajtso.txt" beforeDir="false" />
+      <change beforePath="D:/books/Tolstoj_LN__Zhuravl'_i_aist.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Asya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Bezhin_lug.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Biryuk.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Breter.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Burmistr.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Chasy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Chertopkhanov_i_Nedopyuskin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Dnevnik_lishnego_cheloveka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Dva_pomeschika.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Dvoryanskoe_gnezdo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Dym.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Ermolaj_i_mel'nichikha.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Faust.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Gamlet_Schigrovskogo_uezda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Kas'yan_s_Krasivoj_Mechi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Khor'_i_Kalinych.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Konets_Chertopkhanova.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Kontora.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__L'gov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Lebedyan'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Les_i_step'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Malinovaya_voda.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Moj_sosed_Radilov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Mumu.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Nakanune.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Neschastnaya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Nov'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Odnodvorets_Ovsyannikov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Ottsy_i_deti.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Pesn'_torzhestvuyuschej_lyubvi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Petr_Petrovich_Karataev.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Petushkov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Pevtsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Poezdka_v_Poles'e.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Posle_smerti_(Klara_Milich).txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Rudin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Smert'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Stepnoj_korol'_Lir.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Stikhotvoreniya_v_proze.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Stuchit_!.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Svidanie.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Tat'yana_Borisovna_i_ee_plemyannik.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Uezdnyj_lekar'.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Veshnie_vody.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Yakov_Pasynkov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Zatish'e.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Zhid.txt" beforeDir="false" />
+      <change beforePath="D:/books/Turgenev__Zhivye_moschi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__'Chetvert''_loshadi.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Budka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Chudak-barin.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Knizhka_chekov.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Kvitantsiya.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Ne_byl',_da_i_ne_skazka.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Neizlechimyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Nravy_Rasteryaevoj_ulitsy.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Ochen'_malen'kij_chelovek.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Paramon_yurodivyj.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Pis'ma_iz_Serbii.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Vol'nye_kazaki.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Vypryamila.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Za_malym_delo.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Zagranichnyj_dnevnik_provintsiala.txt" beforeDir="false" />
+      <change beforePath="D:/books/Uspenskij_GI__Zemnoj_raj.txt" beforeDir="false" />
+      <change beforePath="D:/books/newfile.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dockerlesson/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dockerlesson/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-40" />
+    <option name="y" value="200" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dockerlesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerlesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerlesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerlesson" type="462c0819:PsiDirectoryNode" />
+              <item name="dockerlesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dockerlesson" type="Python.DjangoServer" factoryName="Django server">
+      <module name="dockerlesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5cbf91-fb1e-4130-b30a-f8e111c21c56" name="Default Changelist" comment="" />
+      <created>1603904376157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603904376157</updated>
+      <workItem from="1603904378018" duration="552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="552000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dockerlesson/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
